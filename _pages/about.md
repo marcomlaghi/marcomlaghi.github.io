@@ -12,7 +12,7 @@ I am a Sociology PhD student at New York University and NYU-Shanghai's Center fo
 
 Ongoing research
 ======
-*[Rising Temperatures, Rising Risks: A Three-Decade Analysis of Children’s Heat Exposure in China (1990-2020)](/https://szkaifeng.github.io/pdf/FengLBHWChinaChildrenHeat1990t2020.pdf)
+* [Rising Temperatures, Rising Risks: A Three-Decade Analysis of Children’s Heat Exposure in China (1990-2020)](/https://szkaifeng.github.io/pdf/FengLBHWChinaChildrenHeat1990t2020.pdf)
   
   Kai Feng, Marco M. Laghi, Jere R. Behrman, Emily Hannum, Fan Wang
   
@@ -20,7 +20,7 @@ Ongoing research
   
   Link to Working Paperhttps://szkaifeng.github.io/pdf/FengLBHWChinaChildrenHeat1990t2020.pdf
   
-*Deindustrialization and Stratification in building US-China Resentment
+* Deindustrialization and Stratification in building US-China Resentment
   
   Marco M. Laghi
   
