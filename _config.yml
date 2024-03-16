@@ -20,7 +20,7 @@ repository               : "marcomlaghi/marcomlaghi.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "mmlaghi.png"
+  avatar           : "laghiprofile.png"
   name             : "Marco Massimo Laghi"
   pronouns         : # example: "she/her"  
   bio              : "Sociology PhD Student"
