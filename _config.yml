@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Marco Massimo Laghi's Academic Homepage"
+title                    : "Marco M. Laghi's Academic Homepage"
 title_separator          : "-"
 description              : &description "personal description"
 url                      : https://marcomlaghi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -21,7 +21,7 @@ repository               : "marcomlaghi/marcomlaghi.github.io/"
 author:
   # Biographic information
   avatar           : "laghiprofile.png"
-  name             : "Marco Massimo Laghi"
+  name             : "Marco M. Laghi"
   pronouns         : # example: "she/her"  
   bio              : "Sociology PhD Student"
   uri              : # URL
