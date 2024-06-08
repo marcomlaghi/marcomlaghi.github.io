@@ -16,6 +16,6 @@ Data: China County Population Census; ECMWF Reanalysis v5 (ERA5)
   
   
 * The Role of Deindustrialization in US-China Resentment: A Matter of Survival or Self-Expression?
-* (formerly: Deindustrialization and Stratification in building US-China Resentment)  
+(formerly: Deindustrialization and Stratification in building US-China Resentment)  
 Marco M. Laghi  
 Data: Life Experience and Community during COVID-19 in the United States (LECC-US)
