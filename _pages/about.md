@@ -11,7 +11,7 @@ I am a Sociology PhD student at New York University and NYU-Shanghai's Center fo
 Ongoing research
 ======
 * Disparate timings, disparate impacts of care work licensure: Implications from social work.
-**Laghi, M. M.**
+**Laghi, M. M.**  
 Data: National Survey of College Graduates (NSCG)
 
 * Environmental Stratification and China's Children: Review and Research Agenda.
