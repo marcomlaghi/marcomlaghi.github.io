@@ -10,6 +10,9 @@ I am a Sociology PhD student at New York University and NYU-Shanghai's Center fo
 
 Ongoing research
 ======
+* Disparate timings, disparate impacts of care work licensure: Implications from social work.
+**Laghi, M. M.**
+
 * Environmental Stratification and China's Children: Review and Research Agenda.
 **Laghi, M. M.**, Feng, K., Behrman, J. R., Hannum, E., & Wang, F.
 
@@ -18,8 +21,7 @@ Feng, K., **Laghi, M. M.**, Behrman, J. R., Hannum, E., Wang, F.
 Data: China County Population Census; ECMWF Reanalysis v5 (ERA5)
   
   
-* The Role of Deindustrialization in US-China Resentment: A Matter of Survival or Self-Expression?  
-(formerly: Deindustrialization and Stratification in building US-China Resentment)  
+* Deindustrialization and Perception of China by US Citizens: A Matter of Survival or Self-Expression?    
 **Laghi, M. M.**, Wu, X.  
 Data: Life Experience and Community during COVID-19 in the United States (LECC-US)
 
