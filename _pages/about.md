@@ -22,7 +22,7 @@ Feng, K., **Laghi, M. M.**, Behrman, J. R., Hannum, E., Wang, F.
 Data: China County Population Census; ECMWF Reanalysis v5 (ERA5)
   
   
-* Deindustrialization and Perception of China by US Citizens: A Matter of Survival or Self-Expression?    
+* Deindustrialization and perception of China by US citizens    
 **Laghi, M. M.**, Wu, X.  
 Data: Life Experience and Community during COVID-19 in the United States (LECC-US)
 
