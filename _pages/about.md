@@ -10,10 +10,6 @@ I am a Sociology PhD student at New York University and NYU-Shanghai's Center fo
 
 Ongoing research
 ======
-* Disparate timings, disparate impacts of care work licensure: Implications from social work.
-**Laghi, M. M.**  
-Data: National Survey of College Graduates (NSCG)
-
 * Environmental Stratification and China's Children: Review and Research Agenda.
 **Laghi, M. M.**, Feng, K., Behrman, J. R., Hannum, E., & Wang, F.
 
@@ -29,3 +25,14 @@ Data: Life Experience and Community during COVID-19 in the United States (LECC-U
 **Chapters**
 ======
 * **Laghi, M. M.**, Shen, W., & Hannum, E. Educational inequality in China: Progress, continuing challenges, and emerging issues. Chapter in Gustafsson, B., & Yang, X. (Eds) Handbook on Inequality in China. Edward Elgar Publishing. (Accepted)
+
+
+
+
+**Posters**
+======
+* Disparate timings, disparate impacts of care work licensure: Implications from social work.
+**Laghi, M. M.**  
+Data: National Survey of College Graduates (NSCG)
+Conference: Population Association of America (2025)
+Link to poster: https://drive.google.com/file/d/1u6iMiZSQ4DAZybjtP-E8GFgm4uXGFwPj/view?usp=drive_link 
