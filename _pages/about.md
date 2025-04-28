@@ -33,6 +33,6 @@ Data: Life Experience and Community during COVID-19 in the United States (LECC-U
 ======
 * Disparate timings, disparate impacts of care work licensure: Implications from social work.
 **Laghi, M. M.**  
-Data: National Survey of College Graduates (NSCG)
-Conference: Population Association of America (2025)
+Data: National Survey of College Graduates (NSCG)  
+Conference: Population Association of America (2025)  
 [Link to poster](https://drive.google.com/file/d/1u6iMiZSQ4DAZybjtP-E8GFgm4uXGFwPj/view?usp=drive_link)
