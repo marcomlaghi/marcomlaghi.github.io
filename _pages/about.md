@@ -10,7 +10,7 @@ I am a Sociology PhD student at New York University and NYU-Shanghai's Center fo
 
 Ongoing research
 ======
-* Higher education expansion and fertility desire in China
+* Higher education expansion and fertility desire in China  
 **Laghi, M. M.**  
 Data: China Family Panel Studies
 
