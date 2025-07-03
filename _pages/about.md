@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Sociology PhD student at New York University and NYU-Shanghai's Center for Applied Social and Economic Research. On this site, you can find links to my work on social stratification and population with special attention to urban and rural issues, healthy child development and education, especially in China. Feel free to reach out via my information in the sidebar.
+I am a Sociology PhD student at New York University and NYU-Shanghai's Center for Applied Social and Economic Research. On this site, you can find links to my work on social stratification and population with special attention to urban and rural issues, healthy child development, and education, especially in China. Feel free to reach out via my information in the sidebar.
 
 Ongoing research
 ======
@@ -16,7 +16,7 @@ Data: China Family Panel Studies
 
 * China's contribution to the global social science literature on environmental hazards and children: A review and critique  
 **Laghi, M. M.**, & Hannum, E.  
-Data: Web of Science-Social Science Citation Index  
+Data: Social Science Citation Index from Web of Science  
 
 
 * Rising Temperatures, Rising Risks: A Three-Decade Analysis of Children’s Heat Exposure in China (1990-2020)]  
@@ -46,19 +46,22 @@ Conference: Population Association of America (2025)
 
 
 
-**Courses Taught**
+**Courses**
 ======  
 * Summer Institute in Computational Social Science  
-Teaching Assistant  
-NYU-Shanghai, Center for Applied Social and Economic Research: Summer 2025
+Teaching Assistant for Zixi Chen, Jia Miao, and Yongjun Zhang  
+NYU-Shanghai, Center for Applied Social and Economic Research
+Summer 2025
 
 * The Family  
-Teaching Assistant with Recitation Sessions  
-New York University, Sociology: Fall 2024
+Teaching Assistant with Recitation Sessions for Lawrence Wu  
+New York University, Sociology
+Fall 2024
 
 * Introduction to Computational Social Science and Generative AI  
-Teaching Assistant with Lab Sessions  
-NYU-Shanghai, Center for Applied Social and Economic Research: Summer 2023 (Online); Summer 2024 (Online); Summer 2025 (In-person)
+Teaching Assistant with Lab Sessions for Yongjun Zhang  
+NYU-Shanghai, Center for Applied Social and Economic Research
+Summer 2023 (Online); Summer 2024 (Online); Summer 2025 (In-person)
 
 
 
