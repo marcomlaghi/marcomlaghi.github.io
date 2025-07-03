@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Sociology PhD student at New York University and NYU-Shanghai's Center for Applied Social and Economic Research. On this site, you can find links to my work, which primarily focuses on topics such as stratification, education, population, urban and rural issues, healthy child development, and China. Feel free to reach out via my information in the sidebar.
+I am a Sociology PhD student at New York University and NYU-Shanghai's Center for Applied Social and Economic Research. On this site, you can find links to my work on social stratification and population with special attention to urban and rural issues, healthy child development and education, especially in China. Feel free to reach out via my information in the sidebar.
 
 Ongoing research
 ======
@@ -19,9 +19,10 @@ Data: China Family Panel Studies
 Data: Web of Science-Social Science Citation Index  
 
 
-* [Rising Temperatures, Rising Risks: A Three-Decade Analysis of Children’s Heat Exposure in China (1990-2020)](https://szkaifeng.github.io/pdf/FengLBHWChinaChildrenHeat1990t2020.pdf)  
+* Rising Temperatures, Rising Risks: A Three-Decade Analysis of Children’s Heat Exposure in China (1990-2020)]  
 Feng, K., **Laghi, M. M.**, Behrman, J. R., Hannum, E., Wang, F.  
 Data: China County Population Census; ECMWF Reanalysis v5 (ERA5)
+[Link to working paper](https://szkaifeng.github.io/pdf/FengLBHWChinaChildrenHeat1990t2020.pdf)
   
   
 * Deindustrialization and perception of China by US citizens    
@@ -42,3 +43,23 @@ Data: Life Experience and Community during COVID-19 in the United States (LECC-U
 Data: National Survey of College Graduates (NSCG)  
 Conference: Population Association of America (2025)  
 [Link to poster](https://drive.google.com/file/d/1u6iMiZSQ4DAZybjtP-E8GFgm4uXGFwPj/view?usp=drive_link)
+
+
+
+**Courses Taught**
+======  
+*Summer Institute in Computational Social Science  
+Teaching Assistant  
+NYU-Shanghai, Summer 2025
+
+*The Family  
+Teaching Assistant with Recitation Sessions  
+New York University, Fall 2024
+
+*Introduction to Computational Social Science and Generative AI  
+Teaching Assistant with Lab Sessions  
+NYU-Shanghai, Summer 2023 (Online); Summer 2024 (Online); Summer 2025 (In-person)
+
+
+
+
