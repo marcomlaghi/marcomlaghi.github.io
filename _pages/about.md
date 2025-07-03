@@ -48,15 +48,15 @@ Conference: Population Association of America (2025)
 
 **Courses Taught**
 ======  
-*Summer Institute in Computational Social Science  
+* Summer Institute in Computational Social Science  
 Teaching Assistant  
 NYU-Shanghai, Summer 2025
 
-*The Family  
+* The Family  
 Teaching Assistant with Recitation Sessions  
 New York University, Fall 2024
 
-*Introduction to Computational Social Science and Generative AI  
+* Introduction to Computational Social Science and Generative AI  
 Teaching Assistant with Lab Sessions  
 NYU-Shanghai, Summer 2023 (Online); Summer 2024 (Online); Summer 2025 (In-person)
 
