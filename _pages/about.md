@@ -6,12 +6,16 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Sociology PhD student at New York University and NYU-Shanghai's Center for Applied Social and Economic Research. On this site you can find links to my work, which primarily focuses on topics such as stratification, education, population, urban and rural issues, health, and China. Feel free to reach out via my information in the sidebar.
+I am a Sociology PhD student at New York University and NYU-Shanghai's Center for Applied Social and Economic Research. On this site, you can find links to my work, which primarily focuses on topics such as stratification, education, population, urban and rural issues, healthy child development, and China. Feel free to reach out via my information in the sidebar.
 
 Ongoing research
 ======
-* Environmental Stratification and China's Children: Review and Research Agenda.
-**Laghi, M. M.**, Feng, K., Behrman, J. R., Hannum, E., & Wang, F.
+* Higher education expansion and fertility desire in China
+**Laghi, M. M.**  
+Data: China Family Panel Studies
+
+* China's contribution to the global social science literature on environmental hazards and children: A review and critique.
+**Laghi, M. M.**, & Hannum, E.
 
 * [Rising Temperatures, Rising Risks: A Three-Decade Analysis of Children’s Heat Exposure in China (1990-2020)](https://szkaifeng.github.io/pdf/FengLBHWChinaChildrenHeat1990t2020.pdf)  
 Feng, K., **Laghi, M. M.**, Behrman, J. R., Hannum, E., Wang, F.  
