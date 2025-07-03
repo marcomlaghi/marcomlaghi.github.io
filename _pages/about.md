@@ -14,7 +14,7 @@ Ongoing research
 **Laghi, M. M.**  
 Data: China Family Panel Studies
 
-* China's contribution to the global social science literature on environmental hazards and children: A review and critique.
+* China's contribution to the global social science literature on environmental hazards and children: A review and critique  
 **Laghi, M. M.**, & Hannum, E.
 
 * [Rising Temperatures, Rising Risks: A Three-Decade Analysis of Children’s Heat Exposure in China (1990-2020)](https://szkaifeng.github.io/pdf/FengLBHWChinaChildrenHeat1990t2020.pdf)  
