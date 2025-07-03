@@ -21,7 +21,7 @@ Data: Social Science Citation Index from Web of Science
 
 * Rising Temperatures, Rising Risks: A Three-Decade Analysis of Children’s Heat Exposure in China (1990-2020)]  
 Feng, K., **Laghi, M. M.**, Behrman, J. R., Hannum, E., Wang, F.  
-Data: China County Population Census; ECMWF Reanalysis v5 (ERA5)
+Data: China County Population Census; ECMWF Reanalysis v5 (ERA5)  
 [Link to working paper](https://szkaifeng.github.io/pdf/FengLBHWChinaChildrenHeat1990t2020.pdf)
   
   
