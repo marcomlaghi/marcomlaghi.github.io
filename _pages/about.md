@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Sociology PhD student at New York University and NYU-Shanghai's Center for Applied Social and Economic Research. On this site, you can find links to my work on social stratification and population with special attention to urban and rural issues, healthy child development, and education, especially in China. Feel free to reach out via my information in the sidebar.
+I am a Sociology PhD student at New York University and NYU-Shanghai's Center for Applied Social and Economic Research. Before my PhD work, I have spent time in clinical social work along with education policy research and evaluation. On this site, you can find links to my work on social stratification and population with special attention to urban and rural issues, healthy child development, and education, especially in China. Feel free to reach out via my information in the sidebar.
 
 Ongoing research
 ======
