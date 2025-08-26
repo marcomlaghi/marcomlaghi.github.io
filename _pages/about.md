@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Sociology PhD student at New York University and NYU-Shanghai's Center for Applied Social and Economic Research. Before my PhD work, I have spent time in clinical social work along with education policy research and evaluation. On this site, you can find links to my work on social stratification and population, especially in China, with special attention to healthy child development and education, along with the environmental hazards that threaten them. Feel free to reach out via my information in the sidebar.
+I am a Sociology PhD student at New York University and NYU-Shanghai's Center for Applied Social and Economic Research. Before my PhD work, I  spent time in clinical social work, along with education policy research and evaluation. On this site, you can find links to my work on social stratification and population in China and beyond, with special attention to healthy child development and education along with the environmental hazards that threaten them. Feel free to reach out via my information in the sidebar.
 
 Ongoing research
 ======
@@ -24,6 +24,16 @@ Feng, K., **Laghi, M. M.**, Behrman, J. R., Hannum, E., Wang, F.
 Data: China County Population Census; ECMWF Reanalysis v5 (ERA5)  
 [Link to working paper](https://szkaifeng.github.io/pdf/FengLBHWChinaChildrenHeat1990t2020.pdf)
   
+
+* Racial differences in licensure attainment and occupational motivations in a care work profession: The case of social work
+**Laghi, M. M.**  
+Data: National Survey of College Graduates (NSCG) 
+
+
+* Deindustrialization and perception of China by US citizens    
+**Laghi, M. M.**, Wu, X.  
+Data: Life Experience and Community during COVID-19 in the United States (LECC-US)  
+
 
 **Chapters**
 ======
