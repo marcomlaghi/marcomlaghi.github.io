@@ -25,7 +25,7 @@ Data: China County Population Census; ECMWF Reanalysis v5 (ERA5)
 [Link to working paper](https://szkaifeng.github.io/pdf/FengLBHWChinaChildrenHeat1990t2020.pdf)
   
 
-* Racial differences in licensure attainment and occupational motivations in a care work profession: The case of social work
+* Racial differences in licensure attainment and occupational motivations in a care work profession: The case of social work  
 **Laghi, M. M.**  
 Data: National Survey of College Graduates (NSCG) 
 
