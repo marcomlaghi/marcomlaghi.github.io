@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Sociology PhD student at New York University and NYU-Shanghai's Center for Applied Social and Economic Research. Before my PhD work, I  spent time in clinical social work, along with education policy research and evaluation. On this site, you can find links to my work on social stratification and population in China and beyond, with special attention to healthy child development and education along with the environmental hazards that threaten them. Feel free to reach out via my information in the sidebar.
+I am a Sociology PhD student at New York University and NYU-Shanghai's Center for Applied Social and Economic Research. Before my PhD work, I  spent time in clinical social work, along with education policy research and evaluation. On this site, you can find links to my work on social stratification and population in China and beyond, with special attention to healthy child development and education, along with the environmental hazards that threaten them both. Feel free to reach out via my information in the sidebar.
 
 Ongoing research
 ======
@@ -16,18 +16,14 @@ Data: China Family Panel Studies
 
 * China's contribution to the global social science literature on environmental hazards and children: A review and critique  
 **Laghi, M. M.**, & Hannum, E.  
-Data: Social Science Citation Index from Web of Science  
+Data: Social Science Citation Index (Web of Science)      
 
 
 * Rising Temperatures, Rising Risks: A Three-Decade Analysis of Children’s Heat Exposure in China (1990-2020)]  
 Feng, K., **Laghi, M. M.**, Behrman, J. R., Hannum, E., Wang, F.  
 Data: China County Population Census; ECMWF Reanalysis v5 (ERA5)  
 [Link to working paper](https://szkaifeng.github.io/pdf/FengLBHWChinaChildrenHeat1990t2020.pdf)
-  
 
-* Racial differences in licensure attainment and occupational motivations in a care work profession: The case of social work  
-**Laghi, M. M.**  
-Data: National Survey of College Graduates (NSCG) 
 
 
 * Deindustrialization and perception of China by US citizens    
@@ -44,6 +40,11 @@ Data: Life Experience and Community during COVID-19 in the United States (LECC-U
 
 **Posters**
 ======
+* Higher education expansion and the Two Child Policy: What happens when you experience both?
+**Laghi, M.M.**
+Data: Chinese Family Panel Studies (CFPS)
+Conference: Population Association of America (2026)
+
 * Disparate timings, disparate impacts of care work licensure: Implications from social work.
 **Laghi, M. M.**  
 Data: National Survey of College Graduates (NSCG)  
@@ -51,10 +52,9 @@ Conference: Population Association of America (2025)
 [Link to poster](https://drive.google.com/file/d/1u6iMiZSQ4DAZybjtP-E8GFgm4uXGFwPj/view?usp=drive_link)
 
 
-
 **Courses**
 ======  
-* Summer Institute in Computational Social Science  
+* Summer Institute in Computational Social Science (SICCS)  
 Teaching Assistant for Zixi Chen, Jia Miao, and Yongjun Zhang  
 NYU-Shanghai, Center for Applied Social and Economic Research  
 Summer 2025
