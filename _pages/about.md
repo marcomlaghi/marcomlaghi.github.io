@@ -40,12 +40,12 @@ Data: Life Experience and Community during COVID-19 in the United States (LECC-U
 
 **Posters**
 ======
-* Higher education expansion and the Two Child Policy: What happens when you experience both?
-**Laghi, M.M.**
-Data: Chinese Family Panel Studies (CFPS)
-Conference: Population Association of America (2026)
+* Higher education expansion and the Two Child Policy: What happens when you experience both?  
+**Laghi, M.M.**  
+Data: Chinese Family Panel Studies (CFPS)  
+Conference: Population Association of America (2026)  
 
-* Disparate timings, disparate impacts of care work licensure: Implications from social work.
+* Disparate timings, disparate impacts of care work licensure: Implications from social work.  
 **Laghi, M. M.**  
 Data: National Survey of College Graduates (NSCG)  
 Conference: Population Association of America (2025)  
