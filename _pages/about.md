@@ -33,7 +33,7 @@ Data: Life Experience and Community during COVID-19 in the United States (LECC-U
 
 **Chapters**
 ======
-* **Laghi, M. M.**, Shen, W., & Hannum, E. Educational inequality in China: Progress, continuing challenges, and emerging issues. Chapter in Gustafsson, B., & Yang, X. (Eds) Handbook on Inequality in China. Edward Elgar Publishing. (Accepted)
+* **Laghi, M. M.**, Shen, W., & Hannum, E. Educational inequality in China: Progress, continuing challenges, and emerging issues. Chapter in Gustafsson, B., & Yang, X. (Eds) Handbook on Inequality in China. Edward Elgar Publishing. [https://doi.org/10.4337/9781035317806.00010](https://doi.org/10.4337/9781035317806.00010)  
 
 
 
